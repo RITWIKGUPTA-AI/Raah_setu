@@ -131,7 +131,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
             {!collapsed && (
               <div className="flex flex-col truncate">
                 <span className="text-sm font-bold tracking-wider text-slate-900 uppercase font-mono leading-tight">
-                  VECTOR
+                  RaahSetu
                 </span>
                 <span className="text-[10px] font-medium text-slate-500 tracking-normal leading-tight">
                   Govt Logistics & Ops
