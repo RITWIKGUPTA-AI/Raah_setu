@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix VECTOR — Government Logistics \u0026 Emergency Operations Portal 1",
+  "description": "Command Dashboard for Vehicle \u0026 Emergency Connectivity for Transport Operations \u0026 Routing (VECTOR) — North Eastern Region live operational overview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
